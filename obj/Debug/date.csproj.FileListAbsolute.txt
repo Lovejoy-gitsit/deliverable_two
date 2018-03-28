@@ -1,0 +1,7 @@
+C:\Users\nelto\source\repos\date\bin\Debug\date.exe.config
+C:\Users\nelto\source\repos\date\bin\Debug\date.exe
+C:\Users\nelto\source\repos\date\bin\Debug\date.pdb
+C:\Users\nelto\source\repos\date\obj\Debug\date.csprojResolveAssemblyReference.cache
+C:\Users\nelto\source\repos\date\obj\Debug\date.csproj.CoreCompileInputs.cache
+C:\Users\nelto\source\repos\date\obj\Debug\date.exe
+C:\Users\nelto\source\repos\date\obj\Debug\date.pdb
